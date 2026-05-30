@@ -1,5 +1,7 @@
 # ProLogit Consulting LLC
 
+<img width="399" height="131" alt="prologit" src="https://github.com/user-attachments/assets/d9c78f47-0a5e-4fbf-a9fd-c1476ab53220" />
+
 ## Turning Complex Technology Into Business Results
 
 ProLogit Consulting LLC delivers technology consulting services that help organizations modernize infrastructure, improve operational efficiency, and leverage technology as a competitive advantage.
